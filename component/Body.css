@@ -1,0 +1,29 @@
+.box{
+    text-align: center;
+    border-radius: 20px;
+    opacity: 0.7;
+}
+input{
+    width: 50%;
+    border-radius: 10px;
+    text-align: center;
+}
+input:hover{
+    border-color: teal;
+}
+.registration{
+    margin-top: 20px;
+}
+.login{
+    margin-top: 80px;
+}
+.bg-succes{
+    width: 25%;
+    cursor: pointer;
+}
+.bg-succes:hover{
+    width: 27%;
+    cursor: pointer;
+    background-color: rgb(67, 67, 221);
+    color: whitesmoke;
+}
